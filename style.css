@@ -1,0 +1,147 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.top_button{
+    background-color: rgb(255, 179, 47);
+    padding-top: 15px;
+    padding-left: 25px;
+    padding-bottom: 15px;
+    padding-right: 25px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.banner{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align:center;
+}
+h1{
+    font-size: 60px;
+}
+#first_h1{
+    margin: 0;
+    padding-top: 260px;
+}
+#p1{
+    padding-bottom: 23px;
+    font-size: 17px;
+}
+.donate_today{
+    text-align: center;
+    padding-top: 30px;
+}
+#second_h1{
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+#clicked_button{
+    color: rgb(226, 83, 43);
+    border: 5px;
+    border-radius: 5px;
+    border-color: rgb(226, 83, 43);
+    background-color: rgb(247, 224, 224);
+
+}
+.tkrBox button{
+    color: rgb(78, 76, 76);
+    padding: 35px 20px 35px;
+    margin: 20px 10px 20px;
+    font-size: 20px;
+    border: none;
+}
+.text_input{
+    margin: 30px auto;
+    width: 60%;
+    border-bottom: 1px solid rgb(118, 118, 118);
+    
+}
+.text_input input{
+    width: 60%;
+    border: none;
+    text-align: center;
+    font-size: 17px;
+    color: rgb(124, 124, 124);
+    padding-bottom: 15px;
+
+}
+.donate_plan{
+    text-align: center;
+    padding-top: 30px;
+}
+footer{
+    background-color: black;
+}
+.flexible{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#food{
+    background-color: rgb(215, 247, 247);
+    margin: 20px;
+    width: 25%;
+    border-radius: 7px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    text-align: left;
+    color: rgb(72, 72, 72);
+}
+#shelter{
+    background-color: rgb(253, 214, 214);
+    margin: 20px;
+    width: 25%;
+    border-radius: 7px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    text-align: left;
+    color: rgb(72, 72, 72);
+}
+#education{
+    background-color: rgb(249, 249, 201);
+    margin: 20px;
+    width: 25%;
+    border-radius: 7px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    text-align: left;
+    color: rgb(72, 72, 72);
+}
+.their_lives{
+    display: flex;
+}
+#half-width{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#half-width img{
+    width: 100%;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
+#humble{
+    padding-top: 30px;
+    padding-bottom: 0;
+    font-style: italic;
+    font-size: 30px;
+    color: rgb(254, 78, 78);
+}
